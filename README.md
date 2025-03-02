@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Nova - 3D Animated Gaming Website
+#  YujiTech - 3D Animated Gaming Website
 
 ![Nova - 3D Animated Gaming Website](/.github/images/img_main.png "Nova - 3D Animated Gaming Website")
 
